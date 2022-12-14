@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1200/1*c_fiB-YgbnMl6nntYGBMHQ.jpeg.)](https://JosnaKurian.io)
 <h1 align="center">Hi 👋, I'm Josna Kurian</h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
